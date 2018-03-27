@@ -104,7 +104,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>dart=0 -xcpm darkwake=8 nv_disable=1 kext-dev-mode=1 debug=0x100</string>
+		<string>dart=0 -xcpm darkwake=no nv_disable=1 kext-dev-mode=1 debug=0x100</string>
 		<key>CustomLogo</key>
 		<false/>
 		<key>Debug</key>
@@ -118,7 +118,7 @@
 		<key>Secure</key>
 		<false/>
 		<key>Timeout</key>
-		<integer>2</integer>
+		<integer>5</integer>
 		<key>XMPDetection</key>
 		<string>Yes</string>
 	</dict>
