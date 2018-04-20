@@ -5,7 +5,7 @@ What's working?
 Hardware:
 Dell Latitude E6540 
 + CPU: i7 4800QM (speedstep ok)
-+ RAM: 2x8GB RAM DDR3 (working)
++ RAM: 2x8GB RAM DDR3L (working)
 + IGPU: Intel HD 4600 (working - full QE/CI)
 + Display: 1920x1080 
 + Sound: RealTek ALC 292 (full work: micro & headphones)
